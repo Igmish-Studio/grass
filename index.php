@@ -50,7 +50,16 @@ get_header(); ?>
 
 		</main>
 	</div> -->
-
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+            </div>
+        </div>
+    </div>
     <!-- карусель1 -->
     <div class="container">
         <section class="demos" id="demos">
