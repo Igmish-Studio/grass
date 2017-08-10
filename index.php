@@ -50,7 +50,7 @@ get_header(); ?>
 
 		</main>
 	</div> -->
-
+		<p>баг исправил</p>
     <!-- карусель1 -->
     <div class="container">
         <section class="demos" id="demos">
