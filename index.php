@@ -50,6 +50,7 @@ get_header(); ?>
 
 		</main>
 	</div> -->
+<p>fix bug</p>
 <div class="container-bogdan-test">
     <div class="row">
         <div class="col-md-2">
