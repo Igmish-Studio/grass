@@ -50,6 +50,7 @@ get_header(); ?>
 
 		</main>
 	</div> -->
+<<<<<<< HEAD
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -65,6 +66,54 @@ get_header(); ?>
             </div>
         </div>
     </div>
+=======
+<div class="container-bogdan-test">
+    <div class="row">
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+    </div>
+</div>
+>>>>>>> bodya
     <!-- карусель1 -->
     <div class="container">
         <section class="demos" id="demos">
